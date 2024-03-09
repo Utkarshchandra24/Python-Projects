@@ -4,7 +4,7 @@
 
 100 Days of Python Code:-
 
-Day 1: Band Name
+Day 1: Band Name Generator
 
 Day 2: Tip Calculator
 
